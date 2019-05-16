@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\SharpDevelop Projects\RGJudge\RGJudge\bin\Debug\RGJudge.dll
+C:\Users\stu\Documents\SharpDevelop Projects\RGJudge\RGJudge\bin\Debug\RGJudge.pdb
+C:\Users\stu\Documents\SharpDevelop Projects\RGJudge\RGJudge\obj\Debug\RGJudge.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\SharpDevelop Projects\RGJudge\RGJudge\obj\Debug\RGJudge.dll
+C:\Users\stu\Documents\SharpDevelop Projects\RGJudge\RGJudge\obj\Debug\RGJudge.pdb
